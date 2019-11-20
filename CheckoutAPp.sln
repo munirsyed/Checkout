@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutAPp", "CheckoutAPp.csproj", "{AFCD46D2-B864-452A-A05D-8789E69A0A2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutApp", "CheckoutApp.csproj", "{AFCD46D2-B864-452A-A05D-8789E69A0A2C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutApp.Tests", "..\CheckoutApp.Tests\CheckoutApp.Tests.csproj", "{E2BFB510-741E-4181-BE15-C069B42AB1AD}"
 EndProject
